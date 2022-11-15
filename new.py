@@ -23,7 +23,7 @@ api_hash = '37fe72eeb1beff079bd6f8944f56dc36'
 if len(sys.argv) == 2:
     nomer = sys.argv[1]
 else:
-    sys.exit(f"python {sys.argv[0]} +6285246104488")
+    sys.exit(f"python {sys.argv[0]} +62858703453957")
 if os.path.isdir("session") == False:
     os.mkdir("session")
 print(f"\033[1;36m{BANNER}\033[0m\n\033[1;32mAuthor: \033[1;34mkakatoji\033[0m")
